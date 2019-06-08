@@ -5,7 +5,7 @@
 </p>
 
 # Germinal  
-This project uses SwiftUI and is mostly to play around with it. The idea behind the showcasing app is to be able to self-check-in at the german table and to see others that recently checked in.  
+This project uses SwiftUI and is mostly to play around with it. The showcasing app provides a self-check-in (inspired by the german table at WWDC19) and shows a list of other users that recently checked in.  
 
 ### Demo
 <img src="https://github.com/lukaswuerzburger/germinal/raw/develop/readme-resources/demo.png" alt="Germinal UI" title="Germinal UI" width="320"><br/>
